@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vandevops/TestDevopsFeatures/_apis/build/status/amelia251093.DevOpsTest?branchName=master)](https://dev.azure.com/vandevops/TestDevopsFeatures/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
